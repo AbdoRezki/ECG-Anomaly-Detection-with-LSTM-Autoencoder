@@ -1,0 +1,8 @@
+torch>=2.0.0
+scipy
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+flask
